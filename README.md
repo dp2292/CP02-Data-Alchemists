@@ -4,11 +4,11 @@
 ### Team Members:
 | Name              | Student ID   | Contribution |
 | ----------------- | ------------ | ------------ |
-| [Prarthee Desai](https://github.com/Prarthee-Desai)   | 202001257    | EDA |
-| [Devansh Patel](https://github.com/dp2292)     | 202001262    | Models for Term classification(Excl. SVC) |
-| [Dhruv Patel](https://github.com/Dhruv0348)       | 202001271    | Models for Interest rate range Classification(Excl. SVC) and Default Prediction |
-| [Krish Patel](https://github.com/KrishPatel452)       | 202001452    | SVC Models(Term classification, Default Prediction) and Documentation        |
-| [Jaykumar Navadiya](https://github.com/jaynavadiya) | 202001465    | Early Research |
+| [Prarthee Desai](https://github.com/Prarthee-Desai)   | [202001257](mailto:202001257@daiict.ac.in)    | EDA |
+| [Devansh Patel](https://github.com/dp2292)     | [202001262](mailto:202001262@daiict.ac.in)    | Models for Term classification(Excl. SVC) |
+| [Dhruv Patel](https://github.com/Dhruv0348)       | [202001271](mailto:202001271@daiict.ac.in)    | Models for Interest rate range Classification(Excl. SVC) and Default Prediction |
+| [Krish Patel](https://github.com/KrishPatel452)       | [202001452](mailto:202001452@daiict.ac.in)    | SVC Models(Term classification, Default Prediction) and Documentation        |
+| [Jaykumar Navadiya](https://github.com/jaynavadiya) | [202001465](mailto:202001465@daiict.ac.in)    | Early Research |
 
 ## Project Overview
 The Credit Risk Analysis project is a comprehensive endeavor designed to harness the power of data-driven decision-making in the field of financial lending. At its core, the project aims to develop a sophisticated machine learning solution for the evaluation of credit risk, focusing on loan applicants and their creditworthiness. This initiative is founded on the utilization of the "Credit Risk Analysis" dataset, a rich source of information encompassing a wide range of attributes, such as personal and financial data, credit histories, employment records, and loan outcomes.
