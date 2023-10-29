@@ -251,7 +251,7 @@ Insights of each model can be shown as below:
 
 ### Model Performance[Loan Term]
 
-| Model             | Accuracy |
+| Model             | Evaluation Metric |
 |-------------------|----------|
 | ANN               | 0.98     |
 | Logistic Regression | 0.79     |
